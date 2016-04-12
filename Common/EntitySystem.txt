@@ -1,0 +1,18 @@
+
+
+Projectile =====> BasicPlayerProjectile
+	   	  BonusPlayerProjectile
+		  BasicAlienProjectile
+		  BombProjectile 
+
+Alien =====> BydoAlien
+	     GlamAlien
+	     DokanAlien
+	     KayberosAlien
+	     RiosAlien
+	     ScantAlien
+	     ShellAlien
+	     YorkAlien
+	     Xelf16Alien
+
+Player ====> Player

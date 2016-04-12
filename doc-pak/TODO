@@ -1,0 +1,15 @@
+obstacles sur les bords de la map + collisions avec obstacles
+
+faire des bonus de vitesse / freq de tir / invincibilité ?
+
+avoir des (pattern déplacement, shot) différent pour chaque alien
+
+compat windows
+
+FAIRE UN MAX DE DEBUG
+
+OPTIONAL :
+
+faire l'index dans le header des packets
+
+rfc
